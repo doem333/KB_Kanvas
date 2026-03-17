@@ -1,0 +1,5 @@
+{
+  "name": "KB Healthcare Kanvas",
+  "description": "한국어 건강 상황 설명을 기반으로 KB 헬스케어 스타일의 일러스트를 생성하는 AI 도구",
+  "requestFramePermissions": []
+}
